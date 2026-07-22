@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 This project is an interactive Hospital Emergency Room Dashboard developed in Microsoft Excel. It helps analyze patient visits, waiting time, admission status, department referrals, gender distribution, and patient satisfaction using interactive dashboards.
 
+## Dashboard Preview
+![Hospital Dashboard](Dashboard.jpeg)
+
 ## 📊 Key Features
 - Interactive Dashboard
 - Pivot Tables
